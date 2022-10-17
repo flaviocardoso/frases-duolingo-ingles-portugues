@@ -1,2 +1,2 @@
-# frases-duolingo-ingles-portugues
-Estudando Inglês
+# Frases do duolingo: inglês e portugues
+Estudando Inglês no Duoling
